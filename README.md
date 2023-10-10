@@ -1,18 +1,47 @@
-## Getting Started
+# Projeto: Classe ContaTerminal em Java
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+<p align="center">
+<a href="https://web.dio.me/home">
+<img  width="200"  height="100"  src="https://hermes.digitalinnovation.one/assets/diome/logo.svg">
+</p>
 
-## Folder Structure
+Este projeto foi desenvolvido como um exercício prático para a Digital Innovation One (DIO) como parte do aprendizado de conceitos fundamentais de entrada e saída de dados em Java.
 
-The workspace contains two folders by default, where:
+## Descrição
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+O projeto "Classe ContaTerminal em Java" tem como objetivo aprimorar as habilidades dos participantes em relação aos conceitos essenciais de entrada e saída de dados em Java. Para isso, foi criada a classe "ContaTerminal" que permite o armazenamento e a manipulação de informações relacionadas a contas bancárias.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## Estrutura do Projeto
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+Os arquivos do projeto estão organizados da seguinte maneira:
 
-## Dependency Management
+```
+📁 src/
+   │
+   ├─ 📄 ContaTerminal.java
+   └─ 📄 App.java
+```
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+
+- `ContaTerminal.java`: Contém a implementação da classe "ContaTerminal" em Java, incluindo métodos para entrada e saída de dados.
+- `App.java`: Arquivo de exemplo que demonstra como utilizar a classe "ContaTerminal" para criar instâncias e manipular os dados da conta.
+
+## Funcionalidades
+
+- A classe "ContaTerminal" permite o armazenamento das seguintes informações: número da conta, agência, cliente e saldo.
+- Métodos de entrada de dados para inserir informações precisas e validar valores inseridos.
+- Métodos de saída de dados para exibir informações da conta de forma legível.
+- Implementação do método `toString()` para fornecer uma representação em formato de texto dos dados da conta bancária.
+
+## Teste e Uso
+
+O projeto foi testado com sucesso. Para testá-lo e utilizá-lo, siga estas etapas:
+
+1. Clone ou faça o download deste repositório para o seu ambiente de desenvolvimento.
+2. Execute o arquivo `App.java` para criar instâncias da classe "ContaTerminal" e demonstrar a funcionalidade de entrada e saída de dados.
+
+## Considerações Finais
+
+Este projeto representa uma etapa importante no desenvolvimento das habilidades em Java, especificamente na manipulação de entrada e saída de dados. A classe "ContaTerminal" criada demonstra a aplicação eficaz desses conceitos e fornece uma base sólida para projetos futuros.
+
+
