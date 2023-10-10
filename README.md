@@ -40,8 +40,4 @@ O projeto foi testado com sucesso. Para testá-lo e utilizá-lo, siga estas etap
 1. Clone ou faça o download deste repositório para o seu ambiente de desenvolvimento.
 2. Execute o arquivo `App.java` para criar instâncias da classe "ContaTerminal" e demonstrar a funcionalidade de entrada e saída de dados.
 
-## Considerações Finais
-
-Este projeto representa uma etapa importante no desenvolvimento das habilidades em Java, especificamente na manipulação de entrada e saída de dados. A classe "ContaTerminal" criada demonstra a aplicação eficaz desses conceitos e fornece uma base sólida para projetos futuros.
-
 
